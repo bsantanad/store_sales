@@ -1,0 +1,8 @@
+.csv filter=lfs diff=lfs merge=lfs -text
+test.csv filter=lfs diff=lfs merge=lfs -text
+train.csv filter=lfs diff=lfs merge=lfs -text
+transactions.csv filter=lfs diff=lfs merge=lfs -text
+holidays_events.csv filter=lfs diff=lfs merge=lfs -text
+oil.csv filter=lfs diff=lfs merge=lfs -text
+sample_submission.csv filter=lfs diff=lfs merge=lfs -text
+stores.csv filter=lfs diff=lfs merge=lfs -text
